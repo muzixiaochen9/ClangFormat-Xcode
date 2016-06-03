@@ -5,7 +5,7 @@
 //  Created by Travis Jeffery on 1/11/14.
 //  Copyright (c) 2014 Travis Jeffery. All rights reserved.
 //
-
+//
 #import "NSDocument+TRVSClangFormat.h"
 #import <objc/runtime.h>
 #import "TRVSFormatter.h"
